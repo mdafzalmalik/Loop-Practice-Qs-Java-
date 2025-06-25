@@ -16,9 +16,9 @@ public class CheckPrime {
 			}
 		}
 		if(count >= 1) {
-			System.out.print("Not a Prime no.");
+			System.out.print("Not a Prime number !");
 		} else {
-			System.out.print("Prime no.");
+			System.out.print("Prime number !");
 		}
 
 	}
