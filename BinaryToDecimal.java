@@ -2,7 +2,7 @@ package loop_practice;
 
 import java.util.Scanner;
 
-// only for positive number
+// only for positive numbers
 
 public class BinaryToDecimal {
 
